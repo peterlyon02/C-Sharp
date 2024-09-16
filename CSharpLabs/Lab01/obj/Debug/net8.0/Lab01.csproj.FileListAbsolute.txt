@@ -1,0 +1,14 @@
+D:\Materiale Corsi\ENAIP\CSharp\Mod01\CSharpLabs\Lab01\bin\Debug\net8.0\Lab01.exe
+D:\Materiale Corsi\ENAIP\CSharp\Mod01\CSharpLabs\Lab01\bin\Debug\net8.0\Lab01.deps.json
+D:\Materiale Corsi\ENAIP\CSharp\Mod01\CSharpLabs\Lab01\bin\Debug\net8.0\Lab01.runtimeconfig.json
+D:\Materiale Corsi\ENAIP\CSharp\Mod01\CSharpLabs\Lab01\bin\Debug\net8.0\Lab01.dll
+D:\Materiale Corsi\ENAIP\CSharp\Mod01\CSharpLabs\Lab01\bin\Debug\net8.0\Lab01.pdb
+D:\Materiale Corsi\ENAIP\CSharp\Mod01\CSharpLabs\Lab01\obj\Debug\net8.0\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materiale Corsi\ENAIP\CSharp\Mod01\CSharpLabs\Lab01\obj\Debug\net8.0\Lab01.AssemblyInfoInputs.cache
+D:\Materiale Corsi\ENAIP\CSharp\Mod01\CSharpLabs\Lab01\obj\Debug\net8.0\Lab01.AssemblyInfo.cs
+D:\Materiale Corsi\ENAIP\CSharp\Mod01\CSharpLabs\Lab01\obj\Debug\net8.0\Lab01.csproj.CoreCompileInputs.cache
+D:\Materiale Corsi\ENAIP\CSharp\Mod01\CSharpLabs\Lab01\obj\Debug\net8.0\Lab01.dll
+D:\Materiale Corsi\ENAIP\CSharp\Mod01\CSharpLabs\Lab01\obj\Debug\net8.0\refint\Lab01.dll
+D:\Materiale Corsi\ENAIP\CSharp\Mod01\CSharpLabs\Lab01\obj\Debug\net8.0\Lab01.pdb
+D:\Materiale Corsi\ENAIP\CSharp\Mod01\CSharpLabs\Lab01\obj\Debug\net8.0\Lab01.genruntimeconfig.cache
+D:\Materiale Corsi\ENAIP\CSharp\Mod01\CSharpLabs\Lab01\obj\Debug\net8.0\ref\Lab01.dll

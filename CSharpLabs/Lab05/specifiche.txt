@@ -1,0 +1,7 @@
+1) Costruire una classe di tipo Flight che corrisponde alle colonne del file fornito
+2) Costruire una classe di tipo Airport con una collection di Flight
+3) Nel costruttore della classe Airport accedere al file dei voli e a partire da esso popolare la collection di Flights della classe Airport
+4) Creare una console che faccia le seguenti cose:
+	a) dia la possibilità di vedere l'elenco dei voli ordinato secondo criteri a vostra scelta (o specificati da utente o cablati nel programma)
+	b) acquisisca da utente il nome dell'aeroporto di partenza e di arrivo e faccia vedere i voli disponibili (non cancellati) ordinati in base al ritardo all'arrivo minore
+	c) far vedere i 10 voli con maggior ritardo all'arrivo

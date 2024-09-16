@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A488FA6C-F1B1-49C1-BEC2-0C13B61F6747}|Lab06\\Lab06.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A488FA6C-F1B1-49C1-BEC2-0C13B61F6747}|Lab06\\Lab06.csproj|solutionrelative:lab06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B1DDA6-06D7-4CC2-8F93-40DCDA91A420}|Lab04\\Lab04.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab04\\librarydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B1DDA6-06D7-4CC2-8F93-40DCDA91A420}|Lab04\\Lab04.csproj|solutionrelative:lab04\\librarydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B1DDA6-06D7-4CC2-8F93-40DCDA91A420}|Lab04\\Lab04.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab04\\bookdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B1DDA6-06D7-4CC2-8F93-40DCDA91A420}|Lab04\\Lab04.csproj|solutionrelative:lab04\\bookdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A488FA6C-F1B1-49C1-BEC2-0C13B61F6747}|Lab06\\Lab06.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A488FA6C-F1B1-49C1-BEC2-0C13B61F6747}|Lab06\\Lab06.csproj|solutionrelative:lab06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE287AC-6561-498E-B075-EE5169538F0D}|Lab02\\Lab02.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab02\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE287AC-6561-498E-B075-EE5169538F0D}|Lab02\\Lab02.csproj|solutionrelative:lab02\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3251182-7C9A-4401-AA7C-A174B408CFEF}|Lab03\\Lab03.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab03\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3251182-7C9A-4401-AA7C-A174B408CFEF}|Lab03\\Lab03.csproj|solutionrelative:lab03\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B1DDA6-06D7-4CC2-8F93-40DCDA91A420}|Lab04\\Lab04.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab04\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B1DDA6-06D7-4CC2-8F93-40DCDA91A420}|Lab04\\Lab04.csproj|solutionrelative:lab04\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985003FC-5521-4404-B5DA-BE9E21D18991}|Lab05\\Lab05.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985003FC-5521-4404-B5DA-BE9E21D18991}|Lab05\\Lab05.csproj|solutionrelative:lab05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985003FC-5521-4404-B5DA-BE9E21D18991}|Lab05\\Lab05.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab05\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985003FC-5521-4404-B5DA-BE9E21D18991}|Lab05\\Lab05.csproj|solutionrelative:lab05\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985003FC-5521-4404-B5DA-BE9E21D18991}|Lab05\\Lab05.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab05\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985003FC-5521-4404-B5DA-BE9E21D18991}|Lab05\\Lab05.csproj|solutionrelative:lab05\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985003FC-5521-4404-B5DA-BE9E21D18991}|Lab05\\Lab05.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab05\\specifiche.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{985003FC-5521-4404-B5DA-BE9E21D18991}|Lab05\\Lab05.csproj|solutionrelative:lab05\\specifiche.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B1DDA6-06D7-4CC2-8F93-40DCDA91A420}|Lab04\\Lab04.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab04\\library\\catalog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{45B1DDA6-06D7-4CC2-8F93-40DCDA91A420}|Lab04\\Lab04.csproj|solutionrelative:lab04\\library\\catalog.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985003FC-5521-4404-B5DA-BE9E21D18991}|Lab05\\Lab05.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab05\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985003FC-5521-4404-B5DA-BE9E21D18991}|Lab05\\Lab05.csproj|solutionrelative:lab05\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B1DDA6-06D7-4CC2-8F93-40DCDA91A420}|Lab04\\Lab04.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B1DDA6-06D7-4CC2-8F93-40DCDA91A420}|Lab04\\Lab04.csproj|solutionrelative:lab04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3251182-7C9A-4401-AA7C-A174B408CFEF}|Lab03\\Lab03.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab03\\library\\catalog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F3251182-7C9A-4401-AA7C-A174B408CFEF}|Lab03\\Lab03.csproj|solutionrelative:lab03\\library\\catalog.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3251182-7C9A-4401-AA7C-A174B408CFEF}|Lab03\\Lab03.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab03\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3251182-7C9A-4401-AA7C-A174B408CFEF}|Lab03\\Lab03.csproj|solutionrelative:lab03\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3251182-7C9A-4401-AA7C-A174B408CFEF}|Lab03\\Lab03.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3251182-7C9A-4401-AA7C-A174B408CFEF}|Lab03\\Lab03.csproj|solutionrelative:lab03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE287AC-6561-498E-B075-EE5169538F0D}|Lab02\\Lab02.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab02\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE287AC-6561-498E-B075-EE5169538F0D}|Lab02\\Lab02.csproj|solutionrelative:lab02\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE287AC-6561-498E-B075-EE5169538F0D}|Lab02\\Lab02.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE287AC-6561-498E-B075-EE5169538F0D}|Lab02\\Lab02.csproj|solutionrelative:lab02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE287AC-6561-498E-B075-EE5169538F0D}|Lab02\\Lab02.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab02\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE287AC-6561-498E-B075-EE5169538F0D}|Lab02\\Lab02.csproj|solutionrelative:lab02\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE287AC-6561-498E-B075-EE5169538F0D}|Lab02\\Lab02.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab02\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE287AC-6561-498E-B075-EE5169538F0D}|Lab02\\Lab02.csproj|solutionrelative:lab02\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE287AC-6561-498E-B075-EE5169538F0D}|Lab02\\Lab02.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab02\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE287AC-6561-498E-B075-EE5169538F0D}|Lab02\\Lab02.csproj|solutionrelative:lab02\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE287AC-6561-498E-B075-EE5169538F0D}|Lab02\\Lab02.csproj|d:\\materiale corsi\\enaip\\csharp\\mod01\\csharplabs\\lab02\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE287AC-6561-498E-B075-EE5169538F0D}|Lab02\\Lab02.csproj|solutionrelative:lab02\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 35,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDB.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab04\\BookDB.cs",
+              "RelativeDocumentMoniker": "Lab04\\BookDB.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab04\\BookDB.cs",
+              "RelativeToolTip": "Lab04\\BookDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:03:21.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab06\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab06\\Form1.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab06\\Form1.cs",
+              "RelativeToolTip": "Lab06\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAASwBwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:52:11.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "specifiche.txt",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab05\\specifiche.txt",
+              "RelativeDocumentMoniker": "Lab05\\specifiche.txt",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab05\\specifiche.txt",
+              "RelativeToolTip": "Lab05\\specifiche.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-13T12:54:43.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab05\\Flight.cs",
+              "RelativeDocumentMoniker": "Lab05\\Flight.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab05\\Flight.cs",
+              "RelativeToolTip": "Lab05\\Flight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:06:41.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "catalog.txt",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab03\\Library\\catalog.txt",
+              "RelativeDocumentMoniker": "Lab03\\Library\\catalog.txt",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab03\\Library\\catalog.txt",
+              "RelativeToolTip": "Lab03\\Library\\catalog.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-13T07:13:24.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab05\\Program.cs",
+              "RelativeDocumentMoniker": "Lab05\\Program.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab05\\Program.cs",
+              "RelativeToolTip": "Lab05\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:48:48.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab04\\Program.cs",
+              "RelativeDocumentMoniker": "Lab04\\Program.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab04\\Program.cs",
+              "RelativeToolTip": "Lab04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:30:21.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab04\\Book.cs",
+              "RelativeDocumentMoniker": "Lab04\\Book.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab04\\Book.cs",
+              "RelativeToolTip": "Lab04\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:37:15.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab03\\Library.cs",
+              "RelativeDocumentMoniker": "Lab03\\Library.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab03\\Library.cs",
+              "RelativeToolTip": "Lab03\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:59:12.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab03\\Book.cs",
+              "RelativeDocumentMoniker": "Lab03\\Book.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab03\\Book.cs",
+              "RelativeToolTip": "Lab03\\Book.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:15:50.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryDB.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab04\\LibraryDB.cs",
+              "RelativeDocumentMoniker": "Lab04\\LibraryDB.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab04\\LibraryDB.cs",
+              "RelativeToolTip": "Lab04\\LibraryDB.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAD4v5gAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:45:47.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab06\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab06\\Form1.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab06\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab06\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:44:15.919Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Airport.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab05\\Airport.cs",
+              "RelativeDocumentMoniker": "Lab05\\Airport.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab05\\Airport.cs",
+              "RelativeToolTip": "Lab05\\Airport.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:29:07.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab02\\Developer.cs",
+              "RelativeDocumentMoniker": "Lab02\\Developer.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab02\\Developer.cs",
+              "RelativeToolTip": "Lab02\\Developer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:32:33.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "catalog.txt",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab04\\Library\\catalog.txt",
+              "RelativeDocumentMoniker": "Lab04\\Library\\catalog.txt",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab04\\Library\\catalog.txt",
+              "RelativeToolTip": "Lab04\\Library\\catalog.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-13T10:38:05.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab05\\User.cs",
+              "RelativeDocumentMoniker": "Lab05\\User.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab05\\User.cs",
+              "RelativeToolTip": "Lab05\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:02:02.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab02\\Employee.cs",
+              "RelativeDocumentMoniker": "Lab02\\Employee.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab02\\Employee.cs",
+              "RelativeToolTip": "Lab02\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:32:31.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab02\\Program.cs",
+              "RelativeDocumentMoniker": "Lab02\\Program.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab02\\Program.cs",
+              "RelativeToolTip": "Lab02\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAArwEgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:32:23.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SalesPerson.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab02\\SalesPerson.cs",
+              "RelativeDocumentMoniker": "Lab02\\SalesPerson.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab02\\SalesPerson.cs",
+              "RelativeToolTip": "Lab02\\SalesPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:32:19.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab03\\Program.cs",
+              "RelativeDocumentMoniker": "Lab03\\Program.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab03\\Program.cs",
+              "RelativeToolTip": "Lab03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:30:08.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab02\\Company.cs",
+              "RelativeDocumentMoniker": "Lab02\\Company.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab02\\Company.cs",
+              "RelativeToolTip": "Lab02\\Company.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wDEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:58:25.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProjectManager.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab02\\ProjectManager.cs",
+              "RelativeDocumentMoniker": "Lab02\\ProjectManager.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab02\\ProjectManager.cs",
+              "RelativeToolTip": "Lab02\\ProjectManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:48:50.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab02\\Person.cs",
+              "RelativeDocumentMoniker": "Lab02\\Person.cs",
+              "ToolTip": "D:\\Materiale Corsi\\ENAIP\\CSharp\\Mod01\\CSharpLabs\\Lab02\\Person.cs",
+              "RelativeToolTip": "Lab02\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:30:32.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
