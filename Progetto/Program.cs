@@ -9,6 +9,8 @@ class Program
     {
         GestioneCorsi gestionecorsi = new GestioneCorsi();
 
+        
+
         //Chiediamo all'utente di inserire il nome da cercare 
         Console.WriteLine("Inserisci il nome");
         string nomeDaCercare = Console.ReadLine();
@@ -42,5 +44,7 @@ class Program
         {
             Console.WriteLine("Non esistono utenti");
         }
+
+
     }
 }
