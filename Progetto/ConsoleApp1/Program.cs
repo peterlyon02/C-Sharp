@@ -25,5 +25,20 @@ class Program
             Console.WriteLine("Utente trovato:");
             Console.WriteLine(utente);
         }
+
+        Console.WriteLine("Inserisci il tipo da cercare");
+        string tipoDaCercare=Console.ReadLine();    
+
+        List<Utente> studenti = gestionecorsi.GetUtentiByTipoUtente(tipoDaCercare);
+
+        if (studenti.Count > 0)
+        {
+            foreach (Utente studente in studenti)
+            {
+                Console.WriteLine(studente);
+            }
+        } else {
+            Console.WriteLine("Non esistono utenti");
+        }
     }
 }
