@@ -11,9 +11,9 @@ using System.Data.SqlClient;
         GestioneCorsi gestionecorsi = new GestioneCorsi();
 
         //Chiediamo all'utente di inserire il provider del corso
-        Console.WriteLine("Inserisci il provider del corso");
+        Console.WriteLine("Inserisci il learningcenter dell'aula");
         string nomeCorso= Console.ReadLine();
-        Corso corso= gestionecorsi.GetCorsoByProvider(nomeCorso);
+        Aula corso= gestionecorsi.GetAulaByLearningCenter(nomeCorso);
         if (corso != null) {
             Console.WriteLine(corso);
         } else {

@@ -196,10 +196,12 @@ namespace Project
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
                 string sql = @"
-                             SELECT C.Id, C.Nome, C.IdCalendarioCorso, C.IdAula, P.Nome AS NomeProvider
-                             FROM T_Corso AS C JOIN T_Tecnologia AS T ON C.Id= T.IdCorso
-                             JOIN T_Provider AS P ON T.Id=P.IdTecnologia
-                             WHERE T.Tipo =@provider";
+                             SELECT C.Id, C.Nome, C.IdCalendarioCorso, C.IdAula
+                             FROM T_Corso AS C JOIN T_Tecnologia AS T ON C.Id = T.IdCorso
+                             JOIN T_Provider AS P ON T.Id = P.IdTecnologia
+                             WHERE P.Nome = @provider";
+
+                
 
                 using (SqlCommand cmd = new SqlCommand(sql, conn))
                 {
@@ -233,6 +235,94 @@ namespace Project
             return corso;
 
 
+        }
+
+        public Aula GetAulaByName(string nomeAula)
+        {
+            Aula aula= null;
+
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                string sql = @"
+                             SELECT Id, Nome, IdLearningCenter
+                             FROM T_Aula
+                             WHERE Nome=@nome";
+
+
+
+                using (SqlCommand cmd = new SqlCommand(sql, conn))
+                {
+                    cmd.Parameters.AddWithValue("@nome", nomeAula);
+
+                    conn.Open();
+
+                    using (SqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        if (reader.HasRows)
+                        {
+                            while (reader.Read())
+                            {
+                                // Controlla se ciascun valore è DBNull prima di convertirloù
+                                int Id = reader.IsDBNull(reader.GetOrdinal("Id")) ? 0 : Convert.ToInt32(reader["Id"]);
+                                string Nome = reader.IsDBNull(reader.GetOrdinal("Nome")) ? string.Empty : reader["Nome"].ToString();
+                                int IdLearnigCenter = reader.IsDBNull(reader.GetOrdinal("IdLearningCenter")) ? 0 : Convert.ToInt32(reader["IdLearningCenter"]);
+
+                                //Creiamo l'oggetto corso
+                                aula = new Aula(
+                                   Nome, Id,IdLearnigCenter
+                                    );
+                            }
+
+                        }
+
+                    }
+                }
+            }
+            return aula;
+        }
+
+        public Aula GetAulaByLearningCenter(string LearningCenter)
+        {
+            Aula aula = null;
+
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                string sql = @"
+                             SELECT A.Id, A.Nome, A.IdLearningCenter
+                             FROM T_Aula AS A JOIN T_learningCenter AS LC ON LC.Id = A.IdLearningCenter
+                             WHERE LC.Nome=@nome";
+
+
+
+                using (SqlCommand cmd = new SqlCommand(sql, conn))
+                {
+                    cmd.Parameters.AddWithValue("@nome", LearningCenter);
+
+                    conn.Open();
+
+                    using (SqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        if (reader.HasRows)
+                        {
+                            while (reader.Read())
+                            {
+                                // Controlla se ciascun valore è DBNull prima di convertirloù
+                                int Id = reader.IsDBNull(reader.GetOrdinal("Id")) ? 0 : Convert.ToInt32(reader["Id"]);
+                                string Nome = reader.IsDBNull(reader.GetOrdinal("Nome")) ? string.Empty : reader["Nome"].ToString();
+                                int IdLearnigCenter = reader.IsDBNull(reader.GetOrdinal("IdLearningCenter")) ? 0 : Convert.ToInt32(reader["IdLearningCenter"]);
+
+                                //Creiamo l'oggetto corso
+                                aula = new Aula(
+                                   Nome, Id, IdLearnigCenter
+                                    );
+                            }
+
+                        }
+
+                    }
+                }
+            }
+            return aula;
         }
 
 
